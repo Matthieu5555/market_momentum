@@ -18,4 +18,4 @@ Over time, the program evolved to spotlight "hot" and "cold" stocks based on med
 Further enhancements included a loading bar for better user interaction feedback, a clear startup banner, and a formatted results table with additional financial metrics like P/E ratios and industry data. To optimize performance, data fetching was refined to only retrieve additional metrics for stocks in the final table, significantly improving response times.
 
 #### To do:
-Future updates will focus on integrating live and hourly data to track intra-day momentum and identify emerging investment opportunities more dynamically.
+Future updates will focus on integrating live and hourly data to track intra-day momentum and identify emerging investment opportunities more dynamically. Add the capacity of restarting directly from the program. Add some FSA features.
